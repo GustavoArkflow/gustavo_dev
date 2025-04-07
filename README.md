@@ -11,7 +11,7 @@ I approach software the way I approached every construction project:
 
 ## 🚀 What I'm working on
 
-- 🧠 **TuPsicologo-AI** — AI-powered mental health platform  
+- 🧠 **Mindfullme_AI** — AI-powered mental health platform  
   → NestJS backend with modular design, clean architecture, and authentication flows
 
 - 📍 Real-time platform logic inspired by **PedidosYa**  
@@ -62,7 +62,7 @@ I approach software the way I approached every construction project:
 ## 📫 Let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-gustavo-a66454341/)
-- ✉️ your.email@example.com  
+- ✉️ marcelogustavo.dev@gmail.com  
 - 🌐 Personal portfolio site coming soon...
 
 ---
